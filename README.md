@@ -169,10 +169,7 @@ When starting up a Windows computer, press and hold Delete or F12 or F2 (dependi
 - Login account: Microsoft account email.
 - Login password: Microsoft account password (not PIN).
 
-
-!!!Warn
-If there is an issue, log out of the computer, forget the PIN, and re-login using your Microsoft account password
-
+### WARN
 ```xml
 If there is an issue, log out of the computer, forget the PIN, and re-login using your Microsoft account password
 ```
