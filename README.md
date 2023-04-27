@@ -168,6 +168,9 @@ When starting up a Windows computer, press and hold Delete or F12 or F2 (dependi
 - The system requires Windows 10 Professional edition. If you don't have it, you can search online for a solution to enable remote control in the Home edition.
 - Login account: Microsoft account email.
 - Login password: Microsoft account password (not PIN).
+!!!Warn
+If there is an issue, log out of the computer, forget the PIN, and re-login using your Microsoft account password
+
 ```xml
 If there is an issue, log out of the computer, forget the PIN, and re-login using your Microsoft account password
 ```
