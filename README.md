@@ -1,6 +1,10 @@
 # Use frp to establish intranet penetration for remote computer power on and remote control
 ---
 Taking remote control of a Windows desktop using an iPad Pro as an example.
+
+`why I use English here?`
+
+Because when writing markdown, I feel that the English format looks better. You can choose to translate it.
 ## I.Introduce & Prepare
 This document will guide you through the process of using a smart plug to remotely power on your computer, deploying frp, and establishing a remote connection to your computer via RD Client. 
 
