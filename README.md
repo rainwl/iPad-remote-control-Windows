@@ -2,7 +2,7 @@
 ---
 Taking remote control of a Windows desktop using an iPad Pro as an example.
 ## I.Introduce & Prepare
-This document will guide you through the process of using a smart socket to remotely power on your computer, deploying frp, and establishing a remote connection to your computer via RD Client. 
+This document will guide you through the process of using a smart plug to remotely power on your computer, deploying frp, and establishing a remote connection to your computer via RD Client. 
 
 `The content you need to prepare`
 - xiaomi smart socket
