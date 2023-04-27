@@ -159,9 +159,9 @@ exit
 shell:startup
 ```
 You should place a `Windows Shortcut` of the "run.bat" file in there.
-###WARN
+### WARN
 ```
-not run.bat , place the "SHORTCUT"
+not "run.bat" , place the "run.bar.shortcut" here, u know
 ```
 
 ## III.Turn on a computer using a smart plug controlled by an iPad
