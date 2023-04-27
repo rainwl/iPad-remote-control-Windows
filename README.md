@@ -158,7 +158,7 @@ exit
 ```
 shell:startup
 ```
-You can place a `shortcut` of the "run.bat" file in there.
+You can place a `Windows Shortcut` of the "run.bat" file in there.
 
 ## III.Turn on a computer using a smart plug controlled by an iPad
 Download Xiaomi's smart home control software 'Xiaomi Home', and connect to the smart plug.
