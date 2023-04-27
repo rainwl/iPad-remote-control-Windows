@@ -9,7 +9,7 @@ Because when writing markdown, I feel that the English format looks better. You 
 This document will guide you through the process of using a smart plug to remotely power on your computer, deploying frp, and establishing a remote connection to your computer via RD Client. 
 
 `The content you need to prepare`
-- xiaomi smart socket
+- Mijia Smart Plug 3
 - Cloud Server (Tencent & Alibaba etc)
 
 `what is frp ?`
